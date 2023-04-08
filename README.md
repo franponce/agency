@@ -1,4 +1,4 @@
-<h1>Agenc Landing page</h1>
+<h1>Agency Landing page</h1>
 
 A simple landing page for a digital agency
 
@@ -47,5 +47,4 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro --help` | Get help using the Astro CLI                     |
 
 
-# agency
 # agency
