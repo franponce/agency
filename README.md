@@ -1,10 +1,6 @@
-<h1>AgenceX Landing page</h1>
+<h1>Agenc Landing page</h1>
 
 A simple landing page for a digital agency
-
-![AgenceX light Theme](./screens/demoLight.webp)
-![AgenceX Dark Theme](./screens/demoDark.webp)
-
 
 ## Tools
 - TailwindCSS v3.3
@@ -51,4 +47,5 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro --help` | Get help using the Astro CLI                     |
 
 
+# agency
 # agency
